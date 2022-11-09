@@ -1,2 +1,4 @@
-# dev-101-projects
-Project examples for each lesson in Dev 101
+# AAM Project: HTML
+
+This website was built strictly with HTML, no CSS or Javascript.
+It is deployed to [Netlify](https://aam-101-html.netlify.app/).
