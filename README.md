@@ -1,6 +1,6 @@
-# AAM Project: CSS
+# AAM Project: JS
 
-This website was built strictly with HTML, no CSS or Javascript.
-It is deployed to [Github Pages](https://pages.github.com/).
+This website was built strictly with HTML, CSS, and Javascript.
+It is deployed to [Replit](https://replit.com).
 
-## [Live Demo](aam-institute.github.io/project-003/)
+## [Live Demo](https://replit.com/@lacymorrow/project-004#index.html)
