@@ -1,0 +1,15 @@
+{
+    "name": "aaminstitute/project",
+    "description": "The Official PHP example for the AAM Institute Development 101 course.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lacy Morrow",
+            "email": "me@lacymorrow.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {}
+}
