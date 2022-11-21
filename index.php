@@ -1,4 +1,7 @@
-<!-- Welcome to my site, hacker. This is an HTML comment. -->
+<?php 
+  // Hello, Hacker. This is a PHP Comment.
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
