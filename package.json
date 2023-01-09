@@ -1,0 +1,12 @@
+{
+  "name": "project-005",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AAM-Institute/project-005.git",
+  "author": "Lacy Morrow <me@lacymorrow.com> (http://lacymorrow.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1"
+  },
+  "scripts": {}
+}
